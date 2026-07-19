@@ -1,0 +1,194 @@
+{
+  "gh_2057": {
+    "pros": ["Very cheap", "RTX 4060 for cheap"],
+    "cons": ["Poor display", "45W TGP is terrible for a 4060"],
+    "who": "Strict budget gamers",
+    "notWho": "Anyone who can afford to spend slightly more",
+    "rating": 3.8,
+    "reviews": 1650
+  },
+  "gh_2058": {
+    "pros": ["Snapdragon X Elite is very fast", "Great battery life", "Premium design"],
+    "cons": ["ARM app compatibility", "Cannot game"],
+    "who": "Executives and students",
+    "notWho": "Gamers and heavy legacy software users",
+    "rating": 4.5,
+    "reviews": 920
+  },
+  "gh_2059": {
+    "pros": ["Large 15-inch display", "22-hour battery", "Fast CPU"],
+    "cons": ["Expensive", "ARM limitations"],
+    "who": "Professionals needing a large screen and extreme battery",
+    "notWho": "Gamers",
+    "rating": 4.4,
+    "reviews": 610
+  },
+  "gh_2060": {
+    "pros": ["Incredible 2-in-1 tablet", "OLED display option", "Super light"],
+    "cons": ["Keyboard sold separately", "Expensive with accessories"],
+    "who": "Artists, note-takers, and frequent travelers",
+    "notWho": "Users wanting a traditional laptop hinge",
+    "rating": 4.6,
+    "reviews": 1120
+  },
+  "gh_2061": {
+    "pros": ["Amazing AMOLED display", "RTX 4070 in a thin chassis", "Samsung ecosystem integration"],
+    "cons": ["Expensive", "Battery is average for productivity"],
+    "who": "Samsung phone users and creators",
+    "notWho": "Budget buyers",
+    "rating": 4.5,
+    "reviews": 430
+  },
+  "gh_2062": {
+    "pros": ["Thin convertible", "Great AMOLED screen", "S-Pen included"],
+    "cons": ["No dedicated GPU", "Expensive"],
+    "who": "Artists and students in the Samsung ecosystem",
+    "notWho": "Gamers",
+    "rating": 4.4,
+    "reviews": 560
+  },
+  "gh_2063": {
+    "pros": ["Great gaming performance", "140W RTX 4070", "Good cooling"],
+    "cons": ["Loud under load", "Bulky"],
+    "who": "Mid-tier gamers",
+    "notWho": "Students carrying it daily",
+    "rating": 4.3,
+    "reviews": 480
+  },
+  "gh_2064": {
+    "pros": ["Beautiful OLED for creators", "Color accurate", "RTX 4070"],
+    "cons": ["Battery is poor", "Expensive"],
+    "who": "Professional video and photo editors",
+    "notWho": "Office workers",
+    "rating": 4.4,
+    "reviews": 320
+  },
+  "gh_2065": {
+    "pros": ["Fully repairable and modular", "Great CPU", "Excellent keyboard"],
+    "cons": ["Speakers are weak", "Battery life could be better"],
+    "who": "Tech enthusiasts and right-to-repair advocates",
+    "notWho": "Users who just want a glued-together appliance",
+    "rating": 4.7,
+    "reviews": 1420
+  },
+  "gh_2066": {
+    "pros": ["Modular gaming laptop!", "Upgradable GPU", "Great keyboard"],
+    "cons": ["Expensive", "A bit bulky"],
+    "who": "Enthusiasts who want to upgrade their GPU later",
+    "notWho": "Users wanting the thinnest laptop",
+    "rating": 4.6,
+    "reviews": 680
+  },
+  "gh_2067": {
+    "pros": ["Incredible thin-and-light gaming", "Ryzen AI 370 is amazing", "Good battery"],
+    "cons": ["Soldered RAM", "A bit pricey"],
+    "who": "Gamers and creators needing a 14-inch laptop",
+    "notWho": "Budget buyers",
+    "rating": 4.7,
+    "reviews": 850
+  },
+  "gh_2068": {
+    "pros": ["Good value RTX 4070", "Solid build", "Decent battery"],
+    "cons": ["Screen color gamut is poor", "Design is very 'gamer'"],
+    "who": "Budget gamers who want a 4070",
+    "notWho": "Creators needing color accuracy",
+    "rating": 4.2,
+    "reviews": 2100
+  },
+  "gh_2069": {
+    "pros": ["Beautiful OLED", "Creator focused", "Dialpad is useful"],
+    "cons": ["60Hz screen on some models", "Expensive"],
+    "who": "Professional creators and video editors",
+    "notWho": "Hardcore gamers",
+    "rating": 4.5,
+    "reviews": 420
+  },
+  "gh_2070": {
+    "pros": ["Stunning design", "Full metal build", "RTX 4090 power"],
+    "cons": ["Very expensive", "Soldered RAM"],
+    "who": "Gamers wanting a premium thin chassis",
+    "notWho": "Budget buyers",
+    "rating": 4.6,
+    "reviews": 310
+  },
+  "gh_2071": {
+    "pros": ["Perfect 14-inch gaming chassis", "Premium build", "Fast CPU"],
+    "cons": ["Very expensive", "Gets warm"],
+    "who": "Gamers with high budgets wanting portability",
+    "notWho": "Budget buyers",
+    "rating": 4.5,
+    "reviews": 840
+  },
+  "gh_2072": {
+    "pros": ["Massive 18-inch 4K screen", "Desktop power", "Premium build"],
+    "cons": ["Enormous and heavy", "Outrageously expensive"],
+    "who": "Wealthy users wanting a desktop replacement",
+    "notWho": "Anyone else",
+    "rating": 4.7,
+    "reviews": 180
+  },
+  "gh_2073": {
+    "pros": ["Incredible performance", "RGB light bar looks cool", "Good keyboard"],
+    "cons": ["Heavy", "Loud fans"],
+    "who": "Hardcore gamers",
+    "notWho": "Students",
+    "rating": 4.5,
+    "reviews": 560
+  },
+  "gh_2074": {
+    "pros": ["Very light for a 16-inch", "Great battery life", "Good value"],
+    "cons": ["No dedicated GPU", "Speakers are average"],
+    "who": "Business executives and students",
+    "notWho": "Gamers",
+    "rating": 4.3,
+    "reviews": 750
+  },
+  "gh_2075": {
+    "pros": ["Insanely light 17-inch screen", "Great battery"],
+    "cons": ["Build feels a bit flimsy", "No dedicated GPU"],
+    "who": "Users who want the biggest screen with the lowest weight",
+    "notWho": "Gamers",
+    "rating": 4.4,
+    "reviews": 610
+  },
+  "gh_2076": {
+    "pros": ["Under 1KG!", "Great battery life"],
+    "cons": ["Performance is average", "Flimsy feel"],
+    "who": "Frequent travelers",
+    "notWho": "Power users",
+    "rating": 4.3,
+    "reviews": 480
+  },
+  "gh_2077": {
+    "pros": ["Workstation power", "Professional RTX GPU", "Great keyboard"],
+    "cons": ["Very expensive", "Loud under load"],
+    "who": "Engineers, 3D artists, and data scientists",
+    "notWho": "Gamers and casual users",
+    "rating": 4.6,
+    "reviews": 210
+  },
+  "gh_2078": {
+    "pros": ["Very affordable", "Clean design", "Decent battery"],
+    "cons": ["Average screen", "Plastic build"],
+    "who": "Strict budget buyers and students",
+    "notWho": "Power users",
+    "rating": 4.1,
+    "reviews": 1800
+  },
+  "gh_2079": {
+    "pros": ["Clean design", "Good cooling", "RTX 4070"],
+    "cons": ["Display can be wobbly", "A bit heavy"],
+    "who": "Mid-tier gamers wanting a stealthy look",
+    "notWho": "Frequent travelers",
+    "rating": 4.3,
+    "reviews": 920
+  },
+  "gh_2080": {
+    "pros": ["Cheap", "Good entry level 4060"],
+    "cons": ["Bulky and heavy", "Screen color is poor"],
+    "who": "Budget gamers",
+    "notWho": "Creators",
+    "rating": 4.2,
+    "reviews": 2400
+  }
+}

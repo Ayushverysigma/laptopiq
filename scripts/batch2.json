@@ -1,0 +1,178 @@
+{
+  "gh_1023": {
+    "pros": ["The absolute fastest laptop GPU (RTX 5090)", "Premium unibody aluminum", "Gorgeous Mini-LED display"],
+    "cons": ["Outrageously expensive", "Heavy and runs hot"],
+    "who": "Professionals and gamers with unlimited budgets",
+    "notWho": "Anyone who cares about battery life or value",
+    "rating": 4.6,
+    "reviews": 88
+  },
+  "gh_1024": {
+    "pros": ["Incredibly light for a gaming laptop", "Beautiful OLED display", "Looks professional"],
+    "cons": ["RTX 5060 is heavily wattage limited (65W)", "RAM is soldered"],
+    "who": "Creators who game on the side and want a professional look",
+    "notWho": "Hardcore gamers needing maximum FPS",
+    "rating": 4.4,
+    "reviews": 165
+  },
+  "gh_1025": {
+    "pros": ["Excellent build quality", "Strong RTX 5070 performance", "Great keyboard"],
+    "cons": ["Very heavy", "Alienware Command Center can be buggy"],
+    "who": "Gamers who want a premium chassis and don't mind the weight",
+    "notWho": "Students and frequent travelers",
+    "rating": 4.5,
+    "reviews": 210
+  },
+  "gh_1026": {
+    "pros": ["Good value for an i7 + RTX 5060", "Solid cooling", "Decent screen"],
+    "cons": ["Bulky and aggressive gamer design", "Bloatware included"],
+    "who": "Budget-conscious gamers looking for high TGP",
+    "notWho": "Professionals wanting a stealthy design",
+    "rating": 4.2,
+    "reviews": 312
+  },
+  "gh_1027": {
+    "pros": ["Massive 18-inch display", "Top-tier RTX 5090 performance", "Quiet under load"],
+    "cons": ["Enormous and heavy (3.1KG)", "Requires two power bricks", "Very expensive"],
+    "who": "Users replacing a desktop PC completely",
+    "notWho": "Anyone who actually needs a 'laptop'",
+    "rating": 4.7,
+    "reviews": 56
+  },
+  "gh_1028": {
+    "pros": ["Excellent value", "OLED display at a low price", "Good battery life"],
+    "cons": ["Build quality is mostly plastic", "Webcam is average"],
+    "who": "Students and budget buyers wanting a great screen",
+    "notWho": "Gamers and heavy video editors",
+    "rating": 4.3,
+    "reviews": 540
+  },
+  "gh_1029": {
+    "pros": ["Great balance of performance and battery", "Solid aluminum chassis", "Good keyboard"],
+    "cons": ["Display is just IPS", "No dedicated GPU"],
+    "who": "Office workers, programmers, and students",
+    "notWho": "Gamers",
+    "rating": 4.5,
+    "reviews": 412
+  },
+  "gh_1030": {
+    "pros": ["Snapdragon X Plus is efficient", "Great battery life", "OLED screen"],
+    "cons": ["ARM app compatibility issues", "Not for gaming"],
+    "who": "Writers and students needing all-day battery",
+    "notWho": "Gamers and legacy app users",
+    "rating": 4.1,
+    "reviews": 289
+  },
+  "gh_1031": {
+    "pros": ["Ryzen 7 8840U is very efficient", "Great value", "Solid build"],
+    "cons": ["Battery is okay but not class-leading", "Display could be brighter"],
+    "who": "Budget buyers and casual users",
+    "notWho": "Power users",
+    "rating": 4.2,
+    "reviews": 650
+  },
+  "gh_1032": {
+    "pros": ["Core Ultra 7 is fast", "Good port selection", "Clean design"],
+    "cons": ["Trackpad is average", "A bit heavy for 14-inch"],
+    "who": "Students and office workers",
+    "notWho": "Gamers",
+    "rating": 4.0,
+    "reviews": 480
+  },
+  "gh_1033": {
+    "pros": ["Excellent budget gaming performance", "115W RTX 4060", "Good cooling"],
+    "cons": ["Display has poor color gamut", "Battery life is terrible"],
+    "who": "Budget gamers who keep it plugged in",
+    "notWho": "Creators needing color accuracy",
+    "rating": 4.4,
+    "reviews": 890
+  },
+  "gh_1034": {
+    "pros": ["Very cheap", "Decent Ryzen CPU"],
+    "cons": ["RTX 4050 is weak", "Poor display", "Plastic build"],
+    "who": "Entry-level gamers on a strict budget",
+    "notWho": "Enthusiasts",
+    "rating": 4.1,
+    "reviews": 1020
+  },
+  "gh_2023": {
+    "pros": ["Thin and light", "Great battery", "M3 is very capable"],
+    "cons": ["8GB RAM on base model is a scam (this is 16GB though)", "Only 2 ports"],
+    "who": "Students and casual users",
+    "notWho": "Heavy rendering pros",
+    "rating": 4.8,
+    "reviews": 2150
+  },
+  "gh_2024": {
+    "pros": ["Large 15-inch screen", "Fanless and silent", "Great battery"],
+    "cons": ["More expensive than 13-inch", "Still limited ports"],
+    "who": "Those wanting a big MacBook without Pro prices",
+    "notWho": "Power users",
+    "rating": 4.7,
+    "reviews": 1840
+  },
+  "gh_2025": {
+    "pros": ["M3 chip in a Pro chassis", "Great Mini-LED display", "Extra ports"],
+    "cons": ["M3 Pro is a better value", "Base M3 is slightly limited"],
+    "who": "Users wanting the Pro screen and ports without needing M3 Pro power",
+    "notWho": "Heavy video editors",
+    "rating": 4.6,
+    "reviews": 920
+  },
+  "gh_2026": {
+    "pros": ["The sweet spot for MacBooks", "M3 Pro is excellent", "Incredible screen"],
+    "cons": ["Expensive", "A bit heavy"],
+    "who": "Software engineers and video editors",
+    "notWho": "Budget buyers",
+    "rating": 4.8,
+    "reviews": 1560
+  },
+  "gh_2027": {
+    "pros": ["Massive screen", "Great battery for a 16-inch", "Incredible performance"],
+    "cons": ["Heavy", "Very expensive"],
+    "who": "Professional creators",
+    "notWho": "Frequent travelers",
+    "rating": 4.9,
+    "reviews": 850
+  },
+  "gh_2028": {
+    "pros": ["Desktop replacement power", "M3 Max destroys rendering tasks", "48GB RAM"],
+    "cons": ["Insanely expensive"],
+    "who": "Top-tier professionals",
+    "notWho": "Everyone else",
+    "rating": 4.9,
+    "reviews": 320
+  },
+  "gh_2029": {
+    "pros": ["RTX 4080 is very powerful", "Great build quality", "Excellent cooling"],
+    "cons": ["Heavy", "Terrible battery life"],
+    "who": "Hardcore gamers",
+    "notWho": "Students",
+    "rating": 4.7,
+    "reviews": 450
+  },
+  "gh_2030": {
+    "pros": ["Great balance of performance and price", "RTX 4070 is solid", "Good screen"],
+    "cons": ["Battery is poor", "Bulky"],
+    "who": "Mid-to-high tier gamers",
+    "notWho": "Frequent travelers",
+    "rating": 4.6,
+    "reviews": 890
+  },
+  "gh_2031": {
+    "pros": ["Very cheap", "Good entry-level gaming"],
+    "cons": ["RTX 4050 is weak", "Poor battery", "Plastic build"],
+    "who": "Budget gamers",
+    "notWho": "Enthusiasts",
+    "rating": 4.3,
+    "reviews": 1200
+  },
+  "gh_2032": {
+    "pros": ["Ryzen CPU is efficient", "RTX 4060 is the sweet spot", "Good value"],
+    "cons": ["Screen is average", "Battery is still subpar"],
+    "who": "Mainstream budget gamers",
+    "notWho": "Creators needing color accuracy",
+    "rating": 4.5,
+    "reviews": 1450
+  }
+}
